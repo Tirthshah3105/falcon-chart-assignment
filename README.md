@@ -9,3 +9,8 @@ Implemented:
 - Scalable Values
 - Responsive Layout
 Developed using Angular Standalone Components.
+
+## How to Run
+
+npm install
+ng serve
