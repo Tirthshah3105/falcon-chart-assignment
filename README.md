@@ -8,5 +8,4 @@ Implemented:
 - Dynamic Data Binding
 - Scalable Values
 - Responsive Layout
-
 Developed using Angular Standalone Components.
